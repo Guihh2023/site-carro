@@ -34,7 +34,7 @@ Design feito para ilustrção.
 
 Clone este repositório:
 
-git clone https://github.com/SEU-USUARIO/projeto-site-carro.git
+git clone https://github.com/Guihh2023/site-carro/tree/main
 
 
 Entre na pasta:
